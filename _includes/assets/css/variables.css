@@ -1,17 +1,17 @@
 :root {
   /* Brand Colors */
-  --color-primary: #222222;
-  --color-secondary: #2f5bc2;
+  --color-primary: #353331;
+  --color-secondary: #c4bf7a;
 
   /* Background Colors */
-  --color-bg: #ffffff;
-  --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: #c79191;
+  --color-bg: #fdf9ef;
+  --color-bg-secondary: #353331;
+  --color-bg-accent: #9a9a9a;
 
   /* Text and Border Colors */
-  --color-text: #222222;
-  --color-text-alt: #ffffff;
-  --color-border: rgba(0, 0, 0, 0.06);
+  --color-text: #353331;
+  --color-text-alt: #fdf9ef;
+  --color-border: rgba(196,191,122);
 
   /* Status Colors */
   --color-danger: #e03e3e;
