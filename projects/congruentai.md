@@ -1,13 +1,12 @@
 ---
-title: Yad.Codes
-emoji: 🧮
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Congruent Alter Intelligence
+emoji: 💾
+metaDescription: This is a research lab I started to fullfill my interest in pursuing independent research
 date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+summary: This is a research lab that I run to do applied research in data and cybersecurity
 tags:
-  - golang
-  - graphQL
-  - aws
+  - javascript
+  - node
 ---
 
 ### Task
