@@ -9,7 +9,7 @@ eleventyNavigation:
   key: Work
 ---
 ### 👩‍💻 Experience:
-
+<!--
 #### Tesla
 
 **Senior Software Engineer** *(2019 - Current)*
@@ -32,4 +32,4 @@ eleventyNavigation:
 **PhD Astronomy** *(2014 - 2015)*
 
 * Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* Won Nobel Prize -->
